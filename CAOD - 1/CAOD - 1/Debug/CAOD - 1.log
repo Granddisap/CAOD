@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  function.cpp
+C:\Users\grand\OneDrive\Рабочий стол\CAOD\CAOD - 1\CAOD - 1\function.cpp(10,7): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\grand\OneDrive\Рабочий стол\CAOD\CAOD - 1\CAOD - 1\function.cpp(11,7): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\grand\OneDrive\Рабочий стол\CAOD\CAOD - 1\CAOD - 1\function.cpp(12,7): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\grand\OneDrive\Рабочий стол\CAOD\CAOD - 1\CAOD - 1\function.cpp(54,7): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\grand\OneDrive\Рабочий стол\CAOD\CAOD - 1\CAOD - 1\function.cpp(55,7): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\grand\OneDrive\Рабочий стол\CAOD\CAOD - 1\CAOD - 1\function.cpp(56,7): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  main.cpp
+C:\Users\grand\OneDrive\Рабочий стол\CAOD\CAOD - 1\CAOD - 1\main.cpp(13,10): warning C4101: bC: неиспользованная локальная переменная
+C:\Users\grand\OneDrive\Рабочий стол\CAOD\CAOD - 1\CAOD - 1\main.cpp(13,14): warning C4101: cC: неиспользованная локальная переменная
+C:\Users\grand\OneDrive\Рабочий стол\CAOD\CAOD - 1\CAOD - 1\main.cpp(13,6): warning C4101: aC: неиспользованная локальная переменная
+  Создание кода...
+  CAOD - 1.vcxproj -> C:\Users\grand\OneDrive\Рабочий стол\CAOD\CAOD - 1\Debug\CAOD - 1.exe
